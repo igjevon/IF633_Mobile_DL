@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129733439645",
+    "project_id": "fashop-a1e57",
+    "storage_bucket": "fashop-a1e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129733439645:android:1db954253067eee297e474",
+        "android_client_info": {
+          "package_name": "umn.ac.id.fashop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129733439645-vll4is3nbkgu6drkvrcllggf1eie2nlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVqS_x2eVIVcSq2RITCO-HI1qs87G_GHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129733439645-vll4is3nbkgu6drkvrcllggf1eie2nlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
