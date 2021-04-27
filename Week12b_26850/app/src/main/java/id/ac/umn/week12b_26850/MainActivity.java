@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
                     Sensor.TYPE_LIGHT: tvLight.setText("Light Sensor : " + String.format("%.2f",currentValue));
             break;
             case
-                    Sensor.TYPE_PROXIMITY: tvProximity.setText("Proximoty Sensor : " + String.format("%.2f",currentValue));
+                    Sensor.TYPE_PROXIMITY: tvProximity.setText("Proximity Sensor : " + String.format("%.2f",currentValue));
             break;
         }
     }
